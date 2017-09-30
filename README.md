@@ -1,5 +1,6 @@
 ## Geographical Voting Visualization
 ### Kentucky General Assembly, 2017
+### [Link to App](https://rkahne.shinyapps.io/kyleg/)
 
 This app visualizes the voting patterns of legislators during the 2017 Kentucky General Assembly.  Select a bill, choose a vote and chamber, and the legislators who voted in the way you selected will be filled in the map.  The color of the fill corresponds with the party of the legislator (Democrats are blue, Republicans are red).
 
